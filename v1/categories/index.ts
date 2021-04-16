@@ -24,6 +24,6 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
                 amount: await count('foxes')
             },
 
-        ].sort((a, b) => a.amount + b.amount)
+        ]//.sort((a, b) => a.amount + b.amount)
     })
 }
