@@ -1,6 +1,7 @@
 import type { NextApiRequest, NextApiResponse } from 'next'
 import FolderCategory from "@utils/category"
 import apikey from "@utils/apikey"
+import supabase from "@utils/database"
 
 
 import { Image } from "@utils/api.types"
