@@ -4,7 +4,7 @@ import apikey from "@utils/apikey"
 
 
 import { Image } from "@utils/api.types"
-import cache from '@utils/cache'
+// import cache from '@utils/cache'
 
 export default async (req: NextApiRequest, res: NextApiResponse) => {
     const { category } = req.query
