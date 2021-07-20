@@ -1,8 +1,10 @@
 # Temere
 
-Temere is Thaldrin's Custom API, serving Images from [thaldrin.media]
+> 📡 Temere `("random")` Custom Image API for Thaldrin
 
-It's a Git Submodule for [Primis]
+Temere takes care of Thaldrin's Custom Image API, it constructs, randomizes and serves Images.
+
+Temere is part of [primis]
 
 [thaldrin.media]: https://thaldr.in
 [primis]: https://github.com/thaldrin/primis
